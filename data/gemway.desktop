@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=GEMWay
+GenericName=GEM Resource Designer
+Comment=Design GEM dialogs, menus, alerts and icons for Atari computers
+Exec=gemway %f
+Terminal=false
+Categories=Development;GUIDesigner;
+MimeType=application/x-atari-gem-resource;
